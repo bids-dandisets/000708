@@ -35,7 +35,7 @@ assetsSummary:
   - SpatialSeries
   - CompassDirection
 citation: Balakrishnan, Kaarthik A; Haesemeyer, Martin (2025) Gradient behavior 24C
-  to 32C (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000708/draft
+  to 32C (Version 0.250814.1909) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.000708/0.250814.1909
 contributor:
 - awardNumber: 5 R01 NS 123887-03
   name: National Institutes of Health (NIH)
@@ -59,14 +59,15 @@ contributor:
 dateCreated: '2023-11-11T16:15:55.223339+00:00'
 datePublished: '2025-08-14T19:09:38.360021+00:00'
 description: Fish swimming behavior in thermal gradient from 24C to 32C in the light
+doi: 10.48324/dandi.000708/0.250814.1909
 ethicsApproval: []
-id: DANDI:000708/draft
+id: DANDI:000708/0.250814.1909
 identifier: DANDI:000708
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000708/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000708/0.250814.1909/assets.yaml
 name: Gradient behavior 24C to 32C
 protocol: []
 publishedBy:
@@ -86,6 +87,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000708/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000708/0.250814.1909
+version: 0.250814.1909
 wasGeneratedBy: []
